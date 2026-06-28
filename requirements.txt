@@ -1,0 +1,14 @@
+torch>=2.4.0
+torchvision
+torchaudio
+diffusers>=0.30.0
+transformers>=4.45.0
+accelerate>=0.34.0
+huggingface_hub
+gradio>=4.0
+Pillow
+safetensors
+numpy
+# For better performance (optional but recommended)
+# xformers or flash-attn if supported by your GPU
+# For ComfyUI users: see separate workflow
