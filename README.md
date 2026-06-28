@@ -1,5 +1,7 @@
 # qwen-image-edit-rapid-aio-v23
 
+**GitHub:** https://github.com/LucyFairies/qwen-image-edit-rapid-aio-v23
+
 Hugging Face Space by h4sch for **Qwen Image Edit Rapid AIO v23** (NSFW capable).
 
 **Space URL:** https://huggingface.co/spaces/h4sch/qwen-image-edit-rapid-aio-v23
